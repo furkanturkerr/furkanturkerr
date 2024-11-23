@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&letterSpacing=6px&pause=1000&color=003153&background=33FF0700&center=true&vCenter=true&width=1000&height=80&lines=Hello+Welcome+to+my+Github+page)](https://git.io/typing-svg)
 
-<h3 align="left">👩‍💻 Computer Programming - First Year Student</h3>
+<h3 align="left">👩‍💻 Computer Programming - Second Year Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
