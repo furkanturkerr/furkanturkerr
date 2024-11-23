@@ -1,7 +1,8 @@
-[![image](https://r.resimlink.com/zP8FdwMy.png)](https://resimlink.com/zP8FdwMy)
-
 <h1 align="center">Hi 👋, I'm Furkan Türker</h1>
-<h3 align="center">COMPUTER PROGRAMMING FIRST YEAR STUDENT</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&letterSpacing=6px&pause=1000&color=003153&background=33FF0700&center=true&vCenter=true&width=1000&height=80&lines=Hello+Welcome+to+my+Github+page)](https://git.io/typing-svg)
+
+<h3 align="left">👩‍💻 Computer Programming - First Year Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,10 +22,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </div>
+
