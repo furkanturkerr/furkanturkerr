@@ -37,5 +37,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanturkerr&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=furkanturkerr&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=furkanturkerr&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=furkanturkerr&theme=tokyonight" alt="GitHub Streak Stats" />
+  </picture>
 </p>
+
+
+
