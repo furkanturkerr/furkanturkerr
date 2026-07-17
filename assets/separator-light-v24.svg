@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="74" viewBox="0 0 1280 74" fill="none">
+  <defs>
+    <clipPath id="leftTrack"><rect x="24" y="31" width="490" height="12" rx="6"/></clipPath>
+    <clipPath id="rightTrack"><rect x="766" y="31" width="490" height="12" rx="6"/></clipPath>
+    <linearGradient id="leftGlow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#159BD0" stop-opacity="0"/><stop offset="0.5" stop-color="#159BD0"/><stop offset="1" stop-color="#159BD0" stop-opacity="0"/></linearGradient>
+    <linearGradient id="rightGlow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6D5CE7" stop-opacity="0"/><stop offset="0.5" stop-color="#6D5CE7"/><stop offset="1" stop-color="#6D5CE7" stop-opacity="0"/></linearGradient>
+  </defs>
+  <line x1="24" y1="37" x2="514" y2="37" stroke="#C9D7E4" stroke-width="3" stroke-linecap="round"/>
+  <line x1="766" y1="37" x2="1256" y2="37" stroke="#C9D7E4" stroke-width="3" stroke-linecap="round"/>
+  <g clip-path="url(#leftTrack)">
+    <rect x="-120" y="33" width="120" height="8" rx="4" fill="url(#leftGlow)">
+      <animate attributeName="x" values="-120;514" dur="6.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g clip-path="url(#rightTrack)">
+    <rect x="1256" y="33" width="120" height="8" rx="4" fill="url(#rightGlow)">
+      <animate attributeName="x" values="1256;646" dur="6.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="579" y="16" width="122" height="42" rx="21" fill="#FFFFFF" stroke="#BFD0DE" stroke-width="2"/>
+  <circle cx="616" cy="37" r="6" fill="#159BD0"><animate attributeName="r" values="5.5;6.5;5.5" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="640" cy="37" r="6" fill="#6D5CE7"><animate attributeName="r" values="6.5;5.5;6.5" dur="3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.55;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="664" cy="37" r="6" fill="#D49A24"><animate attributeName="r" values="5.5;6.5;5.5" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/></circle>
+</svg>

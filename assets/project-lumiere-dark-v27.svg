@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" fill="none">
+  <rect x="2" y="2" width="406" height="296" rx="24" fill="#081421" stroke="#294158" stroke-width="2"/>
+  <rect x="24" y="25" width="92" height="7" rx="3.5" fill="#54D6FF"/>
+  <text x="24" y="70" fill="#9DAFC1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">01</text>
+
+  <circle cx="365" cy="52" r="19" fill="#081421" stroke="#294158"/>
+  <text x="365" y="60" text-anchor="middle" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">↗</text>
+
+  <text x="24" y="116" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">LUMIERE</text>
+  <text x="24" y="157" fill="#9DAFC1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">
+    <tspan x="24" dy="0">ASP.NET Core Web API ve Angular ile</tspan>
+    <tspan x="24" dy="27">geliştirilen uçtan uca uygulama.</tspan>
+  </text>
+
+  <line x1="24" y1="235" x2="386" y2="235" stroke="#294158"/>
+  <text x="24" y="270" fill="#54D6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">Web API · Angular · PostgreSQL</text>
+</svg>

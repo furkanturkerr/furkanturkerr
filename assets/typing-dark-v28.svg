@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="72" viewBox="0 0 1280 72" fill="none">
+  <defs>
+    
+    <clipPath id="clip0">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.00000;0.03214;0.11964;0.13571;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.14286;0.17500;0.26250;0.27857;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.28571;0.31786;0.40536;0.42143;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.42857;0.46071;0.54821;0.56429;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.57143;0.60357;0.69107;0.70714;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.71429;0.74643;0.83393;0.85000;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="92" y="0" width="0" height="70">
+        <animate attributeName="width"
+                 values="0;0;1096;1096;0;0"
+                 keyTimes="0.00000;0.85714;0.88929;0.97679;0.99286;1.00000"
+                 dur="28.0s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1276" height="68" rx="20" fill="#08131F" stroke="#294158"/>
+  <circle cx="34" cy="36" r="5" fill="#54D6FF"/>
+  <circle cx="52" cy="36" r="5" fill="#7C6CFF"/>
+  <circle cx="70" cy="36" r="5" fill="#F4C65C"/>
+
+  
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.00000;0.03214;0.11964;0.13571;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip0)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">Bilgisayar Programcılığı · Junior Full Stack .NET</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.14286;0.17500;0.26250;0.27857;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip1)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">ASP.NET Core · MVC · Web API</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.28571;0.31786;0.40536;0.42143;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip2)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">Angular · TypeScript · JavaScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.42857;0.46071;0.54821;0.56429;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip3)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">Onion Architecture · CQRS · MediatR</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.57143;0.60357;0.69107;0.70714;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip4)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">EF Core · Dapper · SQL Server · PostgreSQL</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.71429;0.74643;0.83393;0.85000;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip5)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">Identity · JWT · SignalR</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0.00000;0.85714;0.88929;0.97679;0.99286;1.00000"
+             dur="28.0s"
+             repeatCount="indefinite"/>
+    <text x="640" y="44" text-anchor="middle"
+          clip-path="url(#clip6)"
+          fill="#6EDBFF"
+          font-family="Fira Code,Consolas,monospace"
+          font-size="24" font-weight="700"
+          letter-spacing="1.2">OpenAI API · Claude API · Gemini API</text>
+  </g>
+
+  <rect x="1188" y="22" width="3" height="27" rx="1.5" fill="#5F758C">
+    <animate attributeName="opacity" values="0;1;0" dur="0.85s" repeatCount="indefinite"/>
+  </rect>
+</svg>

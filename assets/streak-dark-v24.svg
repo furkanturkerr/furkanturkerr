@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="164" viewBox="0 0 900 164" fill="none">
+  <rect x="1" y="1" width="898" height="162" rx="22" fill="#08131F" stroke="#294158" stroke-width="2"/>
+  <text x="30" y="34" fill="#91A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">GITHUB AKTİVİTESİ</text>
+  <line x1="298" y1="30" x2="298" y2="134" stroke="#22364B"/>
+  <line x1="596" y1="30" x2="596" y2="134" stroke="#22364B"/>
+  <text x="30" y="79" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800">1,339</text>
+  <text x="30" y="106" fill="#91A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Toplam katkı</text>
+  <circle cx="350" cy="79" r="27" stroke="#22364B" stroke-width="7"/>
+  <circle cx="350" cy="79" r="27" stroke="#54D6FF" stroke-width="7" stroke-linecap="round" stroke-dasharray="136 34" transform="rotate(-90 350 79)">
+    <animate attributeName="stroke-dashoffset" values="0;-170" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="350" y="88" text-anchor="middle" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="800">5</text>
+  <text x="394" y="73" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800">Güncel seri</text>
+  <text x="394" y="101" fill="#91A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">13–17 Tem 2026</text>
+  <text x="628" y="73" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">22</text>
+  <text x="628" y="100" fill="#91A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">En uzun seri</text>
+  <text x="628" y="126" fill="#91A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">30 Kas – 21 Ara 2025</text>
+  <circle cx="850" cy="34" r="4" fill="#7C6CFF"><animate attributeName="opacity" values="0.45;1;0.45" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="870" cy="34" r="4" fill="#F4C65C"><animate attributeName="opacity" values="1;0.45;1" dur="3.4s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="376" viewBox="0 0 1280 376" fill="none">
+  <rect x="2" y="2" width="1276" height="372" rx="28" fill="#FFFFFF" stroke="#C8D6E4" stroke-width="2"/>
+
+  <text x="48" y="54" fill="#54D6FF" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="15" font-weight="800" letter-spacing="2.4">HAKKIMDA</text>
+
+  <text x="48" y="104" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="35" font-weight="800">Backend ağırlıklı full stack geliştirme</text>
+
+  <text x="48" y="148" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="20" font-weight="500">
+    <tspan x="48" dy="0">Bilgisayar Programcılığı öğrencisiyim. .NET ekosisteminde backend ağırlıklı</tspan>
+    <tspan x="48" dy="31">full stack projeler geliştiriyorum.</tspan>
+    <tspan x="48" dy="40">ASP.NET Core Web API, Entity Framework Core, SQL Server ve PostgreSQL ile</tspan>
+    <tspan x="48" dy="31">backend; Angular ve TypeScript ile kullanıcı arayüzleri geliştiriyorum.</tspan>
+    <tspan x="48" dy="40">Onion Architecture, CQRS, MediatR ve yapay zekâ servislerini projelerimde</tspan>
+    <tspan x="48" dy="31">uygulamalı olarak kullanıyorum.</tspan>
+  </text>
+
+  <g>
+    <rect x="835" y="42" width="395" height="76" rx="18" fill="#F4F7FA" stroke="#C8D6E4"/>
+    <circle cx="868" cy="80" r="8" fill="#54D6FF"/>
+    <text x="892" y="73" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="16" font-weight="800">BACKEND</text>
+    <text x="892" y="98" fill="#697B8F" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="14">ASP.NET Core · Web API · EF Core</text>
+
+    <rect x="835" y="137" width="395" height="76" rx="18" fill="#F4F7FA" stroke="#C8D6E4"/>
+    <circle cx="868" cy="175" r="8" fill="#7C6CFF"/>
+    <text x="892" y="168" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="16" font-weight="800">MİMARİ</text>
+    <text x="892" y="193" fill="#697B8F" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="14">Onion · CQRS · MediatR</text>
+
+    <rect x="835" y="232" width="395" height="76" rx="18" fill="#F4F7FA" stroke="#C8D6E4"/>
+    <circle cx="868" cy="270" r="8" fill="#F4C65C"/>
+    <text x="892" y="263" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="16" font-weight="800">YAPAY ZEKÂ</text>
+    <text x="892" y="288" fill="#697B8F" font-family="Inter,Segoe UI,Arial,sans-serif"
+          font-size="14">OpenAI · Claude · Gemini</text>
+  </g>
+</svg>

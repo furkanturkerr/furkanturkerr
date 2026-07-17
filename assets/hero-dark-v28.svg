@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="272" viewBox="0 0 1280 272" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="272">
+      <stop stop-color="#07111D"/>
+      <stop offset="1" stop-color="#0A1827"/>
+    </linearGradient>
+    <clipPath id="topTrack">
+      <rect x="58" y="25" width="1164" height="4" rx="2"/>
+    </clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1276" height="268" rx="28" fill="url(#bg)" stroke="#294158" stroke-width="2"/>
+
+  <line x1="58" y1="27" x2="1222" y2="27" stroke="#182C3F" stroke-width="2"/>
+  <g clip-path="url(#topTrack)">
+    <rect x="-180" y="25" width="170" height="4" rx="2" fill="#54D6FF">
+      <animate attributeName="x" values="-180;1222" dur="11s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="58" y="62" width="42" height="5" rx="2.5" fill="#54D6FF"/>
+  <text x="122" y="75" fill="#8196AC" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="22" font-weight="700" letter-spacing="2">
+    JUNIOR FULL STACK .NET DEVELOPER
+  </text>
+
+  <text x="58" y="169" fill="#F5F7FB" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="72" font-weight="800">Furkan Türker</text>
+
+  <text x="58" y="224" fill="#AEBCCC" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="27" font-weight="500">
+    ASP.NET Core, Angular ve yapay zekâ entegrasyonları.
+  </text>
+
+  <circle cx="1194" cy="67" r="5" fill="#54D6FF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1220" cy="67" r="5" fill="#7C6CFF">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1246" cy="67" r="5" fill="#F4C65C">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
