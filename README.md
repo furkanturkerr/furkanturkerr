@@ -94,16 +94,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark-v24.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/streak-light-v24.svg" />
-    <img src="./assets/streak-dark-v24.svg" alt="GitHub gün serisi" width="64%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/separator-dark-v24.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/separator-light-v24.svg" />
-    <img src="./assets/separator-dark-v24.svg" alt="Ayraç" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=furkanturkerr&theme=transparent&hide_border=true&locale=tr&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=furkanturkerr&theme=transparent&hide_border=true&locale=tr&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=furkanturkerr&theme=transparent&hide_border=true&locale=tr&ring=4CC9F0&fire=4CC9F0&currStreakLabel=4CC9F0&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
+      alt="Furkan Türker GitHub gün serisi"
+      width="64%"
+    />
   </picture>
 </p>
