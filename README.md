@@ -109,3 +109,11 @@
     />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/separator-dark-v24.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/separator-light-v24.svg" />
+    <img src="./assets/separator-dark-v24.svg" alt="Ayraç" width="100%" />
+  </picture>
+</p>
